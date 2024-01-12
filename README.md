@@ -2,6 +2,8 @@
 # 💫 About Me:
 Currently working on enhancing my developer skils🚀<br>Passionate about coding and  acting 👻<br>Enthusiastic about learning frontend .<br>Currently diving into Python 🥷🏻<br>FUN FACT- I AM LAZY.
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">
+![Coding](https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ayushhhxx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-aryan-0295241b5/) 
