@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AYUSH ARYAN</h1>
 <h3 align="center">I AM A BTECH STUDENT.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh6bWcycnp6MWR6b2RkeGpjaGxhbGhmM2RjYWF2YWtnOHVkdXluYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhharyann007&label=Profile%20views&color=0e75b6&style=flat" alt="ayushhharyann007" /> </p>
 
